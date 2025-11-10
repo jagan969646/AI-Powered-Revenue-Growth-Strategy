@@ -1,0 +1,22 @@
+# Core data science libraries
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Causal inference
+dowhy
+econml
+
+# Notebook and visualization
+jupyter
+notebook
+plotly
+PowerBI
+
+# (Optional) Streamlit dashboard
+streamlit
+
+# For reproducibility
+statsmodels
