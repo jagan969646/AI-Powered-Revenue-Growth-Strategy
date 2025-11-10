@@ -36,4 +36,22 @@ The focus is on identifying **high-value customer segments** and quantifying the
 ---
 
 ## 🗂️ Folder Structure
+AI-Powered-Revenue-Growth-Strategy/
+│
+├── notebooks/
+│   ├── Step01_Data_Cleaning_Preprocessing.ipynb
+│   ├── Step02_Feature_Engineering_Baseline_Models.ipynb
+│   ├── Step03_Causal_Inference_ABTesting.ipynb
+│   └── Step04_Uplift_Modeling_Insights.ipynb
+│
+├── data/
+│   ├── clean/ab_test_simulated.csv
+│   └── (README.txt → link to raw data)
+│
+├── models/
+│   ├── baseline_random_forest.pkl
+│   └── scaler.pkl
+│
+├── README.md
+└── requirements.txt
 
